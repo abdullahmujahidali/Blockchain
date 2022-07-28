@@ -1,3 +1,3 @@
-# Etherium-Solidity
+# BLOCKCHAIN LEARNING
 
-This repository is for learning blockchain
+This repository is for learning blockchain different modules and langauges.
