@@ -33,4 +33,8 @@ contract IteratableMapping
     {
         return balances[keys[keys.length - 1]];
     }
+    function get(uint _i) external view returns(uint)
+    {
+        return balances[keys[_i]];
+    }
 }
